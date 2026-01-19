@@ -3,10 +3,6 @@
 * C#, .NET, Angular
 * Christianity, Photography, Poetry
 
-- 🌱 I’m currently learning ...
-* SNMP
-* Networking
-
 - 💞️ I’m looking to collaborate on ...
 My Dynamic Bible Project
 
